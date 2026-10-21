@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "be0e8c85c7613050",
+    "type": "split",
+    "children": [
+      {
+        "id": "2790b0de1cc60b73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a8376ec31ad6bb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Quant/Ito's Lemma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ito's Lemma"
+            }
+          },
+          {
+            "id": "d20f88d97f29b75a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
+            "id": "0ff4f96decfbe5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Finding a way to make money.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finding a way to make money"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9664e826fc791ca4",
+    "type": "split",
+    "children": [
+      {
+        "id": "10960620be736dac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79444f3313787311",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cf6ca2790bf333a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dcf60948b067d9b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4f927c8ed147023",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2aaa4f139203aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04e6d79001c26d22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 - Main Notes/Properties of  Good Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f995286e8a95a8a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 - Main Notes/Properties of  Good Algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "937ec2d490d39c21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a51c589b95c380a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 - Main Notes/Properties of  Good Algorithms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "42d1ca9b20b96fd5",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ff4f96decfbe5db",
+  "lastOpenFiles": [
+    "05 Sources/Research Papers & Articles/Atomic Habits.md",
+    "04 Knowledge/Programming & Machine Learning/Data Frames in R.md",
+    "04 Knowledge/Programming & Machine Learning/Data Structures and Algorithms.md",
+    "02 Projects/College & Technical Projects/3i Atlas.md",
+    "02 Projects/College & Technical Projects/Project Cassandra.md",
+    "04 Knowledge/Programming & Machine Learning/Intro to C.pdf",
+    "04 Knowledge/Programming & Machine Learning/Generalisation - Jack of all Trades.md",
+    "99 Archive/Downloads Inbox/2026-05-07/lost me.pdf",
+    "99 Archive/Downloads Inbox/2026-05-07/Math 1065 Assignment 1.pdf",
+    "00 Inbox/Yellow.md",
+    "00 Inbox/Untitled 2.md",
+    "00 Inbox/Untitled 1.md",
+    "00 Inbox/Untitled.md",
+    "6 - Main Notes/Quant/Ito's Lemma.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/specialist_prompts.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/MASTER_PLAN.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/_import_log.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/Sentiment Model Selection for India.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/Openclaw Skill Development Ideas.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/Openclaw Skill Development Ideas README.md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/Openclaw Skill Development Ideas (1).md",
+    "99 Archive/Downloads Inbox_1/2026-05-07/Milo_design.md",
+    "99 Archive/Downloads Inbox/2026-05-07/de assignment 5.pdf",
+    "99 Archive/Downloads Inbox/2026-05-07/dsa.pdf",
+    "99 Archive/Downloads Inbox/2026-05-07/Milo_Week4_Tasks.pdf",
+    "99 Archive/Downloads Inbox/2026-05-07/dsa lab test.pdf",
+    "99 Archive/Downloads Inbox/2026-05-07/University Choice Undertaking.docx",
+    "99 Archive/Downloads Inbox/2026-05-07/University Choice Undertaking.pdf",
+    "99 Archive/Downloads Inbox/2026-05-07/Milo_Week3_Tasks.docx",
+    "07 Attachments/Untitled.canvas",
+    "07 Attachments/Screenshot 2025-09-12 at 12.28.21 AM.png",
+    "07 Attachments/Screenshot 2026-08-05 at 10.40.56 AM.png",
+    "07 Attachments/Screenshot 2024-12-06 at 5.27.09 PM.png",
+    "07 Attachments/Pasted image 20260807121735.png",
+    "07 Attachments/FyQhPzmakAErIJy-removebg-preview.png",
+    "06 Templates/Full Note.md",
+    "06 Templates/Cornell Template.md",
+    "05 Sources/Research Papers & Articles/Uniting the Tribes Using Text for Marketing Insight.md",
+    "05 Sources/Research Papers & Articles/Stock Closing Price Prediction using Machine Learning Techniques_2.md",
+    "05 Sources/Research Papers & Articles/Stock Closing Price Prediction using Machine Learning Techniques_1.md",
+    "05 Sources/Research Papers & Articles/Stock Closing Price Prediction using Machine Learning Techniques.md",
+    "05 Sources/Research Papers & Articles/Effectiveness of Artificial Intelligence.md",
+    "Pasted image 20260807121735.png",
+    "Untitled.canvas",
+    "FyQhPzmakAErIJy-removebg-preview.png",
+    "Screenshot 2026-08-05 at 10.40.56 AM.png",
+    "Screenshot 2025-09-12 at 12.28.21 AM.png",
+    "96140-removebg-preview.png"
+  ]
+}
